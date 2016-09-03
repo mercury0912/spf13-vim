@@ -1,0 +1,8 @@
+set nospell
+set nobackup
+set textwidth=78
+set colorcolumn=78
+set formatoptions+=mM
+
+let g:vim_markdown_conceal = 0  "'plasticboy/vim-markdown'
+let g:textobj#quote#educate = 0 "'vim-textobj-quote' 0=disable, 1=enable (def)
